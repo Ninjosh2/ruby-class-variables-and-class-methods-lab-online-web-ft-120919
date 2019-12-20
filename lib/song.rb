@@ -7,6 +7,6 @@ class Song
   @@genre = []
   @@artist = []  
   
-  
+  def 
   
 end 
