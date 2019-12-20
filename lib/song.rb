@@ -36,7 +36,7 @@ class Song
   
   def self.artist_count 
     artist_count = Hash.new(0) 
-    @@art
+    @@artist
   
   
   
