@@ -6,3 +6,5 @@ class Song
   @@count = 0 
   @@genre = 0 
   @@artist = 0 
+  
+end 
