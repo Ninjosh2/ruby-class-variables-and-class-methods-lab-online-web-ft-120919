@@ -7,4 +7,6 @@ class Song
   @@genre = []
   @@artist = []  
   
+  
+  
 end 
